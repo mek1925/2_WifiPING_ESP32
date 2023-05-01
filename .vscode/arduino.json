@@ -1,7 +1,0 @@
-{
-    "board": "esp32:esp32:esp32",
-    "sketch": "2_WifiPING_ESP32.ino",
-    "port": "COM3",
-    "output": "C:/Users/miraj/Documents/vscodeout",
-    "configuration": "PSRAM=disabled,PartitionScheme=defaultffat,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=115200,DebugLevel=none"
-}
